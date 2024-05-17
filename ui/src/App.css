@@ -1,0 +1,16 @@
+*{
+    margin: 0;   
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: unset;
+}
+body{
+    background-color: black;
+    color: #fff;
+}
+:root{
+    --text-color: rgb(228, 18, 18);
+}
